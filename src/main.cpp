@@ -72,7 +72,7 @@ lcd.print(line_2);
   }
   // Free resources
   http.end();
-  delay(4000);
+  delay(2000);
   lcd.clear();
 }
 
